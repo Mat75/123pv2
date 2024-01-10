@@ -1,0 +1,13 @@
+#Interfaz{
+    background-color: red;
+}
+body{
+    background-image: url("https://images.alphacoders.com/271/thumb-1920-271571.jpg");
+}
+#Desarrollado{
+    position: fixed;
+    bottom: 0%;
+    background-color: orange;
+    color: black;
+    width: 100%;
+}
